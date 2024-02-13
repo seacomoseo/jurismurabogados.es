@@ -9,17 +9,47 @@ rows:
     interval: 8
     icon: ditto
   items:
-  - title: Miguel Ángel S.
+  - title: Montserrat A.
     description: |
-      Buenos profesionales, rapidez, eficacia y seriedad.
+      Eficaces y rápidos. Siembre pendientes del cliente. Y siempre actualizados legalmente.
+
+      Llevo con ellos desde que abrí la clínica hace ya unos 20 años y nunca me han fallado. Los recomiendo cien por cien.
+  - title: Jose María M.
+    description: |
+      Grandes profesionales, muy preparados en materia laboral y con una respuesta inmediata.
+
+      Disponibilidad absoluta y encima de trato muy cordial.
+
+      A nivel empresa llevamos más de 10 años con ellos y mucho mas que nos esperan.
+  - title: Jose Antonio N.
+    description: |
+      Soy cliente del Despacho y declaro estar muy satisfecho.
+
+      Siempre se han mostrado eficaces y diligentes.
+
+      Tienen gran prestigio en Murcia.
   - title: Leonor G.
     description: |
       Eficacia, rapidez y atención personalizada.
 
       Sin duda, no cambiaría su servicio.
+  - title: Jose Ramiro R.
+    description: |
+      Son muy buenos profesionales…
+
+      Llevo 7 años trabajando con ellos y espero seguir muchos más.
+  - title: Miguel Ángel S.
+    description: |
+      Buenos profesionales, rapidez, eficacia y seriedad.
   - title: Pedro A.
     description: |
-      
+      Muy profesionales y lo mejor siempre están cuando los necesitas.
+  - title: Alejandro S.
+    description: |
+      Grandísimos profesionales. Más de 15 años trabajando con ellos.
+  - title: Antonio Jose D.
+    description: |
+      Rapidez y eficacia. Recomiendo esta asesoría.
 - type: columns
   items:
   - description: |
