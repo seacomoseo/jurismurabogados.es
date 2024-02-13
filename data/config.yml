@@ -12,7 +12,10 @@ location_type:
 alternate_name:
 - Jurismur
 - Jurismur Abogados
+- Jurismur Lawyers
 - Asesoria Laboral Jurismur Abogados
+- Jurismur Work and Law Consultant
+- Work and Law Consultant
 - Work and Law Consultant SLP
 - Work and Law Consultant, S.L.P.
 - Work Consultant
@@ -41,4 +44,6 @@ custom_code:
     lang: javascript
 social:
 - link: https://g.page/r/CZJosYDkc8IkEBM
-
+en:
+  title: Jurismur Work and Law Consultant
+  description: Advice for all your ﬁscal, accounting or legal needs, both commercial and private.

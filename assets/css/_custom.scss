@@ -1,3 +1,4 @@
+#body-home #header,
 #body-inicio #header {
   @mixin show-from($delay) {
     animation: show-from .5s (.5 + .25s * $delay) both;
@@ -11,6 +12,8 @@
   .description .buttons { @include show-from(6); }
 }
 
+#work-areas,
+#team,
 #areas-trabajo,
 #equipo {
   .column__header  {

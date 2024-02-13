@@ -28,6 +28,13 @@ rows:
       Siempre se han mostrado eficaces y diligentes.
 
       Tienen gran prestigio en Murcia.
+  - title: Ana Cristina B.
+    description: |
+      Trabajamos con ellos desde el inicio de la empresa, unos cinco años.
+
+      Los considero eficaces, rápidos en resolver nuestras demandas y muy actualizados siempre.
+
+      Hablan muy claro y me dan seguridad.
   - title: Leonor G.
     description: |
       Eficacia, rapidez y atención personalizada.
@@ -38,6 +45,13 @@ rows:
       Son muy buenos profesionales…
 
       Llevo 7 años trabajando con ellos y espero seguir muchos más.
+  - title: Samuel M.
+    description: |
+      Un trato muy personal y profesional.
+
+      Me siento seguro estando en sus manos.
+
+      Recomendable.
   - title: Miguel Ángel S.
     description: |
       Buenos profesionales, rapidez, eficacia y seriedad.
@@ -50,6 +64,9 @@ rows:
   - title: Antonio Jose D.
     description: |
       Rapidez y eficacia. Recomiendo esta asesoría.
+  - title: Javier N.
+    description: |
+      Asesoría laboral con mucha experiencia y profesionalidad.
 - type: columns
   items:
   - description: |

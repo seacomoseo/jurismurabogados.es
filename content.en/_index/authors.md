@@ -1,8 +1,7 @@
 ---
-title: Autores
+title: Authors
 title_seo: ''
-slug: autores
-description: Listado de autores
+description: List of authors
 image: ''
 draft: true
 noindex: true

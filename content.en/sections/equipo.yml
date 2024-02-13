@@ -1,0 +1,34 @@
+title: Team
+subtitle: Professionals that make up the firm
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    gap: 2
+    align_x: space-around
+    underline: true
+    ratio: circle
+    licon: none
+    label: Enlarge
+  items:
+  - image: equipo/francisca-perez-gomez.jpg
+    title: Francisca <br> Pérez Gómez
+    description: Labor Law and Social Security Area
+    link: '#francisca-perez-gomez'
+  # - image: equipo/jose-maria-rios-mestre.jpg
+  #   title: José María <br> Ríos Mestre
+  #   description: Administrative Law
+  #   link: '#jose-maria-rios-mestre'
+  # - image: equipo/maria-carmen-mota-lopez.jpg
+  #   title: Mª Carmen <br> Mota López
+  #   description: Area of Civil and Criminal Law
+  #   link: '#maria-carmen-mota-lopez'
+  - image: equipo/thierry-martinez-tortosa.jpg
+    title: Thierry <br> Martínez Tortosa
+    description: Labor Law and Labor Relations Area
+    link: '#thierry-martinez-tortosa'
+  - image: equipo/manuel-cascon-perez.jpg
+    title: Manuel <br> Cascón Pérez
+    description: Administrative Technician and Office
+    link: '#manuel-cascon-perez'

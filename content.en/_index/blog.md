@@ -1,8 +1,7 @@
 ---
 title: Blog
 title_seo: ''
-slug: blog
-description: Listado de entradas del blog
+description: List of blog posts
 image: ''
 draft: true
 noindex: true

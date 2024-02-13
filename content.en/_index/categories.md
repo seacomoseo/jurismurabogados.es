@@ -1,8 +1,7 @@
 ---
-title: Categorías
+title: Categories
 title_seo: ''
-slug: categorias
-description: Listado de categorías
+description: List of categories
 image: ''
 draft: true
 noindex: true

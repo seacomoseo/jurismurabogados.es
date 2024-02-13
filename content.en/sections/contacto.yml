@@ -1,0 +1,68 @@
+title: Contact
+subtitle: How can we help you?
+button: link
+size: sm
+rows:
+- type: contact
+  data:
+  - type: h3
+    label: Winter
+  - type: schedule
+    days: Monday to Thursday
+    hours: 9:00 - 19:30
+  - type: schedule
+    days: Friday
+    hours: 9:00 - 15:00
+  - type: h3
+    label: Summer
+  - type: schedule
+    days: Monday to Friday
+    hours: 9:00 - 15:00
+  - type: hr
+  - type: phone
+    label: 968 29 83 21
+    icon: phone-rotary
+  - type: phone
+    label: 601 14 90 39
+    icon: mobile-screen
+  - type: br
+  - type: custom
+    label: 968 28 72 71
+    icon: fax
+    button: alt
+    link: '#fax'
+  - type: whatsapp
+    label: 601 14 90 39
+    # button: link
+  - type: mail
+    label: franciscaperez@jurismurabogados.es
+    full: true
+    button: light
+  - type: address
+    active: true
+    name: Jurismur Abogados
+    streetAddress: Calle Niño Gloria, 3, 3ºB
+    postalCode: 30012
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1204614,37.9702857]}'
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Name
+      required: true
+    - type: tel
+      name: Phone
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Message
+      required: true
+  map:
+    active: true
+    link: https://g.page/r/CZJosYDkc8IkEBM
+    flip_y: false

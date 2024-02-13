@@ -1,0 +1,41 @@
+id: work-areas
+title: Work areas
+subtitle: Of consulting
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    gap: 2
+    underline: true
+    licon: none
+    label: Ampliar
+  items:
+  - icon: handshake
+    title: Labor
+    description: Labor Relations Management and Optimization
+    link: '#labor'
+  - icon: building-columns
+    title: Administrative
+    description: Legal Solutions in Public Administration
+    link: '#administrative'
+  - icon: scale-balanced
+    title: Private Law
+    description: Protection and Claim of Civil Rights
+    link: '#private-law'
+  - icon: briefcase
+    title: Commercial Law
+    description: Commercial Business Strategies and Advice
+    link: '#commercial-law'
+  - icon: money-bill-transfer
+    title: Bankruptcy
+    description: Advice in Insolvency Proceedings
+    link: '#bankruptcy'
+  - icon: gavel
+    title: Criminal Law
+    description: Defense and Representation in Criminal Law
+    link: '#criminal-law'
+  - icon: family
+    title: Family Law
+    description: Legal Assistance in Family and Inheritance Matters
+    link: '#family-law'

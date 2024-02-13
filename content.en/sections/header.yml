@@ -1,0 +1,17 @@
+anchor: Law Firm - Labor, Legal and Tax Advice in Murcia, Spain
+title: Jurismur Lawyers
+subtitle: Labor, Legal and Tax Advice
+image: logo.svg
+# color: dark
+bg: fondo.jpg
+size: xs
+description: |
+  **Work and Law Consultant, S.L.P.**
+
+  We give you labor solutions with the speed and professionalism you need from our easily accessible office in Murcia.
+
+  [btn More](#main)
+more:
+  full_screen: true
+  image_max: 15
+  padding_top: 2

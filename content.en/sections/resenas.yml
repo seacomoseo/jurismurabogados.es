@@ -1,0 +1,73 @@
+title: Reviews
+subtitle: What do they say about us?
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+    interval: 8
+    icon: ditto
+  items:
+  - title: Montserrat A.
+    description: |
+      Efficient and fast. Always attentive to the client. And always legally up to date.
+
+      I have been with them since I opened the clinic 20 years ago and they have never let me down. I recommend them one hundred percent.
+  - title: Jose María M.
+    description: |
+      Great professionals, very prepared in labor matters and with an immediate response.
+
+      Absolute availability and on top of that a very cordial treatment.
+
+      At company level we have been with them for more than 10 years and much more awaits us.
+  - title: Jose Antonio N.
+    description: |
+      I am a client of the firm and I am very satisfied.
+
+      They have always been efficient and diligent.
+
+      They have great prestige in Murcia.
+  - title: Ana Cristina B.
+    description: |
+      We have been working with them since the beginning of the company, about five years.
+
+      I consider them efficient, fast in solving our demands and always very updated.
+
+      They speak very clearly and give me security.
+  - title: Leonor G.
+    description: |
+      Efficiency, speed and personalized attention.
+
+      Without a doubt, I would not change their service.
+  - title: Jose Ramiro R.
+    description: |
+      They are very good professionals...
+
+      I have been working with them for 7 years and I hope to continue for many more.
+  - title: Samuel M.
+    description: |
+      Very personal and professional treatment.
+
+      I feel safe being in their hands.
+
+      Highly recommended.
+  - title: Miguel Ángel S.
+    description: |
+      Good professionals, speed, efficiency and seriousness.
+  - title: Pedro A.
+    description: |
+      Very professional and the best thing is that they are always there when you need them.
+  - title: Alejandro S.
+    description: |
+      Great professionals. More than 15 years working with them.
+  - title: Antonio Jose D.
+    description: |
+      Speed and efficiency. I recommend this consultancy.
+  - title: Javier N.
+    description: |
+      A very experienced and professional labor consultancy.
+- type: columns
+  items:
+  - description: |
+      [btn More reviews](https://g.page/r/CZJosYDkc8IkEBM/review "noindex")
