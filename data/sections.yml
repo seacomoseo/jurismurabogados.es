@@ -35,5 +35,4 @@ general:
   flip_x: false
   flip_y: true
 alternate:
-- flip_y: false
-  color: white
+- color: white
