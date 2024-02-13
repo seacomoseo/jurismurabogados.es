@@ -1,0 +1,22 @@
+title: Asesoramiento Global
+subtitle: Filosofía de trabajo
+rows:
+- type: columns
+  design:
+    num: 2
+  items:
+  - order: 2
+    bg: equipo.jpg
+  - order: 1
+    description: |
+      Los profesionales de la ﬁrma WORK AND LAW CONSULTANT, S.L.P. le ofrecen asesoramiento para todas sus necesidades ﬁscales, contables o jurídicas, tanto en el ámbito comercial como en el privado. Encontrará toda la experiencia y conocimientos necesarios bajo un mismo techo.
+
+      Esto no sólo le ahorrará mucho tiempo y costes sino que le garantiza, bajo cualquier circunstancia, un trato personal y un asesoramiento efectivo adaptado a sus necesidades.
+
+      Naturalmente, ofrecemos asesoramiento en varios idiomas. Sus asuntos están en buenas manos.
+
+      Todos nuestros Abogados, Economistas, Contables y Asesores Fiscales son miembros de los correspondientes colegios profesionales y organizaciones de Murcia.
+    more:
+      align: left
+      align_xl: right
+      align_y: center

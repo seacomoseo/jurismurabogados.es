@@ -2,51 +2,60 @@ title: Contacto
 subtitle: ¿En qué podemos ayudarte?
 button: link
 size: sm
-icon: paper-plane
 rows:
 - type: contact
   data:
+  - type: h3
+    label: Invierno
+  - type: schedule
+    days: Lunes a Jueves
+    hours: 9:00 - 19:30
+  - type: schedule
+    days: Viernes
+    hours: 9:00 - 15:00
+  - type: h3
+    label: Verano
   - type: schedule
     days: Lunes a Viernes
-    hours: 9:00 - 12:30 y 14:30 - 20:00
-  - type: br
+    hours: 9:00 - 15:00
+  - type: hr
   - type: phone
-    label: 111 222 333
+    label: 968 29 83 21
+    icon: phone-rotary
+  - type: phone
+    label: 601 14 90 39
+    icon: mobile-screen
+  - type: br
+  - type: custom
+    label: 968 28 72 71
+    icon: fax
+    button: alt
+    link: oaushd
   - type: whatsapp
-    label: 444 555 666
-    button: link
+    label: 601 14 90 39
+    # button: link
   - type: mail
-    label: info@sansoul.es
+    label: franciscaperez@jurismurabogados.es
     full: true
-  - type: custom
-    link: https://www.instagram.com/quantumfracture/
-    label: Instagram
-    icon: instagram
-    font_alt: false
-    button: dark
-  - type: custom
-    link: https://www.facebook.com/QuantumFracture
-    label: Facebook
-    icon: facebook-f
-    font_alt: false
     button: light
   - type: address
     active: true
-    name: ''
-    streetAddress: Ronda de Levante, 1
-    postalCode: 30008
+    name: Jurismur Abogados
+    streetAddress: Calle Niño Gloria, 3, 3ºB
+    postalCode: 30012
     addressLocality: Murcia
     addressRegion: Murcia
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+    coordinates: '{"type":"Point","coordinates":[-1.1204614,37.9702857]}'
   form:
-    fill_inputs: true
+    fill_inputs: false
     items:
     - type: text
       name: Nombre
       required: true
     - type: tel
       name: Teléfono
+      required: true
     - type: email
       name: Email
       required: true

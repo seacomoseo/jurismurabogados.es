@@ -1,28 +1,19 @@
-// Header Animations
-
-@keyframes logo-drop {
-  0% {
-    transform: scale(3);
-    opacity: 0;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
 #body-inicio #header {
-  .image {
-    path {
-      fill: var(--text);
-    }
-    transform-origin: center;
-    animation: logo-drop 1s 0s both;
-  }
   @mixin show-from($delay) {
     animation: show-from .5s (.5 + .25s * $delay) both;
   }
-  .section__title {       @include show-from(1); }
-  .subtitle {             @include show-from(2); }
-  .description p {        @include show-from(3); }
-  .description .buttons { @include show-from(4); }
+  .logo-3 {               @include show-from(0); --show-from: translate(1em, -3rem); }
+  .logo-1 {               @include show-from(1); --show-from: rotate(-30deg); transform-box: fill-box; transform-origin: center; }
+  .logo-2 {               @include show-from(2); --show-from: translate(1em, 3rem); }
+  .section__title {       @include show-from(3); }
+  .subtitle {             @include show-from(4); }
+  .description p {        @include show-from(5); }
+  .description .buttons { @include show-from(6); }
+}
+
+#areas-trabajo,
+#equipo {
+  .column__header  {
+    margin-bottom: -.75em;
+  }
 }

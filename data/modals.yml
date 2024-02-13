@@ -1,5 +1,5 @@
 icon: ''
-icon_type: ''
+icon_type: top
 icon_size: ''
 icon_color: ''
 image: ''
@@ -10,11 +10,11 @@ inset: false
 image_min: null
 image_max: null
 image_align: ''
-uppercase: true
-underline: false
+uppercase: false
+underline: true
 align: ''
 color: ''
 gradient: ''
 gradient_type: ''
 pill: false
-size: ''
+size: xs

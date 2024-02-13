@@ -1,22 +1,31 @@
 ---
 title: Inicio
-title_seo: Tema SanSoul de Hugo
+title_seo: Jurismur Abogados - Asesoría Laboral y Jurídica en Murcia
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
-image: fondo.jpg
+description: llll➤ Asesoramiento para todas sus necesidades ﬁscales, contables o jurídicas, ✅ tanto en el ámbito comercial como en el privado.
+image: logo.png
 draft: false
 noindex: false
 translationKey: home
 sections:
 - file: header
-- file: nosotros
-- file: servicios
+- file: areas-trabajo
   modals:
-  - ejemplo
-- file: proceso
-- file: fotos
-- file: noticias
-- file: faq
+  - area-laboral
+  - area-administrativo
+  - area-derecho-privado
+  - area-mercantil
+  - area-concursal
+  - area-penal
+  - area-familia
+- file: asesoramiento-global
+- file: equipo
+  modals:
+  - equipo-francisca-perez-gomez
+  - equipo-jose-maria-rios-mestre
+  - equipo-maria-carmen-mota-lopez
+  - equipo-thierry-martinez-tortosa
+  - equipo-manuel-cascon-perez
 - file: resenas
 - file: contacto
 ---

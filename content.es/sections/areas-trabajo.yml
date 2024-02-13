@@ -1,0 +1,41 @@
+id: areas-trabajo
+title: Áreas de Trabajo
+subtitle: De asesoramiento
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    gap: 2
+    underline: true
+    licon: none
+    label: Ampliar
+  items:
+  - icon: handshake
+    title: Laboral
+    description: Gestión y Optimización de Relaciones Laborales
+    link: '#laboral'
+  - icon: building-columns
+    title: Administrativo
+    description: Soluciones Legales en Administración Pública
+    link: '#administrativo'
+  - icon: scale-balanced
+    title: Derecho Privado
+    description: Protección y Reclamo de Derechos Civiles
+    link: '#derecho-privado'
+  - icon: briefcase
+    title: Mercantil
+    description: Estrategias y Asesoría en Negocios Comerciales
+    link: '#mercantil'
+  - icon: money-bill-transfer
+    title: Concursal
+    description: Asesoramiento en Procesos de Insolvencia
+    link: '#concursal'
+  - icon: gavel
+    title: Penal
+    description: Defensa y Representación en Derecho Penal
+    link: '#penal'
+  - icon: family
+    title: Familia
+    description: Asistencia Legal en Asuntos Familiares y de Sucesiones
+    link: '#familia'

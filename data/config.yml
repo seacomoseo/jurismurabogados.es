@@ -1,18 +1,23 @@
-title: SanSoul Hugo Theme EXAMPLE
-description: SanSoul is the Hugo theme website services soul by lorensansol, you can copy and use like you want
+title: Jurismur Abogados
+description: Asesoramiento para todas sus necesidades ﬁscales, contables o jurídicas, tanto en el ámbito comercial como en el privado.
 logo: logo.png
-legal_name: Nombre Legal de Ejemplo
-legal_dni: 12345678-A
-legal_email: ''
-legal_location: ''
+legal_name: Work and Law Consultant SLP
+legal_dni: B73393423
+legal_email: franciscaperez@jurismurabogados.es
+legal_location: Calle Niño Gloria, 3, 3ºB, 30012 Murcia
 country: España
 location_type:
 - LocalBusiness
 - Organization
 alternate_name:
-- SanSoul
+- Jurismur
+- Jurismur Abogados
+- Asesoria Laboral Jurismur Abogados
+- Work and Law Consultant SLP
+- Work and Law Consultant, S.L.P.
+- Work Consultant
 price_range: €€
-google_analytics: CAMBIAR
+google_analytics: G-GXQ5XT9842
 google_site_verification: ''
 google_file_verification: google7467d923cbb3eb4c.html
 disqus: ''
@@ -34,13 +39,5 @@ custom_code:
   js:
     code: ''
     lang: javascript
-social:
-- link: https://www.facebook.com/QuantumFracture
-- link: https://www.instagram.com/quantumfracture/
-- link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-- link: https://twitter.com/QuantumFracture
-- link: https://www.linkedin.com/company/quantum-fracture
-- link: https://gitlab.com/lorensansol
-- link: https://github.com/lorensansol
-- link: https://mastersoflol.com/collections/quantumfracture?YTC
+social: []
 

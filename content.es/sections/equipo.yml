@@ -1,0 +1,32 @@
+title: Equipo
+subtitle: Profesionales que integran la firma
+rows:
+- type: columns
+  design:
+    num_xs: true
+    gap: 2
+    underline: true
+    ratio: circle
+    licon: none
+    label: Ampliar
+  items:
+  - image: equipo/francisca-perez-gomez.jpg
+    title: Francisca <br> Pérez Gómez
+    description: Área de Derecho del Trabajo y Seguridad Social
+    link: '#francisca-perez-gomez'
+  - image: equipo/jose-maria-rios-mestre.jpg
+    title: José María <br> Ríos Mestre
+    description: Área de Derecho Administrativo
+    link: '#jose-maria-rios-mestre'
+  - image: equipo/maria-carmen-mota-lopez.jpg
+    title: Mª Carmen <br> Mota López
+    description: Área de Derecho <br> Civil y Penal
+    link: '#maria-carmen-mota-lopez'
+  - image: equipo/thierry-martinez-tortosa.jpg
+    title: Thierry <br> Martínez Tortosa
+    description: Área de Asesoramiento Laboral y Relaciones
+    link: '#thierry-martinez-tortosa'
+  - image: equipo/manuel-cascon-perez.jpg
+    title: Manuel <br> Cascón Pérez
+    description: Técnico Administrativo y Despacho
+    link: '#manuel-cascon-perez'

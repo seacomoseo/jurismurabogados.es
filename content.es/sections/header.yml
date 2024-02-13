@@ -1,13 +1,14 @@
-title: SanSoul Hugo Theme
-subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
+anchor: Despacho de Abogados - Asesoría Laboral, Jurídica y Fiscal en Murcia
+title: Jurismur Abogados
+subtitle: Asesoría Laboral, Jurídica y Fiscal
 image: logo.svg
-color: main-dark
+# color: dark
 bg: fondo.jpg
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Work and Law Consultant, S.L.P.
 
-  [btn icon-plus Más](#principal)
+  [btn Más](#principal)
 more:
   full_screen: true
-  image_min: 18
-  image_max: 20
+  image_max: 15
+  padding_top: 2

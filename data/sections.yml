@@ -12,7 +12,7 @@ general:
   image_max: null
   image_align: ''
   uppercase: true
-  underline: false
+  underline: true
   align: ''
   full_screen: false
   padding_hide: false
@@ -22,7 +22,7 @@ general:
   gradient: ''
   gradient_type: ''
   bg: ''
-  opacity: 30
+  opacity: 20
   parallax: true
   pill: false
   size: ''
@@ -31,10 +31,9 @@ general:
   container_gradient_type: ''
   container_opacity: null
   hide_shadow: false
-  divider: curve-side
+  divider: book
   flip_x: false
-  flip_y: false
-alternate:
-- flip_x: true
   flip_y: true
+alternate:
+- flip_y: false
   color: white
