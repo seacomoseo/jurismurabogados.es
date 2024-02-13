@@ -3,8 +3,10 @@ subtitle: Profesionales que integran la firma
 rows:
 - type: columns
   design:
+    num: 4
     num_xs: true
     gap: 2
+    align_x: space-around
     underline: true
     ratio: circle
     licon: none
@@ -14,14 +16,14 @@ rows:
     title: Francisca <br> Pérez Gómez
     description: Área de Derecho del Trabajo y Seguridad Social
     link: '#francisca-perez-gomez'
-  - image: equipo/jose-maria-rios-mestre.jpg
-    title: José María <br> Ríos Mestre
-    description: Área de Derecho Administrativo
-    link: '#jose-maria-rios-mestre'
-  - image: equipo/maria-carmen-mota-lopez.jpg
-    title: Mª Carmen <br> Mota López
-    description: Área de Derecho <br> Civil y Penal
-    link: '#maria-carmen-mota-lopez'
+  # - image: equipo/jose-maria-rios-mestre.jpg
+  #   title: José María <br> Ríos Mestre
+  #   description: Área de Derecho Administrativo
+  #   link: '#jose-maria-rios-mestre'
+  # - image: equipo/maria-carmen-mota-lopez.jpg
+  #   title: Mª Carmen <br> Mota López
+  #   description: Área de Derecho <br> Civil y Penal
+  #   link: '#maria-carmen-mota-lopez'
   - image: equipo/thierry-martinez-tortosa.jpg
     title: Thierry <br> Martínez Tortosa
     description: Área de Asesoramiento Laboral y Relaciones

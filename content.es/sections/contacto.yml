@@ -30,7 +30,7 @@ rows:
     label: 968 28 72 71
     icon: fax
     button: alt
-    link: oaushd
+    link: '#fax'
   - type: whatsapp
     label: 601 14 90 39
     # button: link

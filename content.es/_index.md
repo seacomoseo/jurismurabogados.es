@@ -22,8 +22,8 @@ sections:
 - file: equipo
   modals:
   - equipo-francisca-perez-gomez
-  - equipo-jose-maria-rios-mestre
-  - equipo-maria-carmen-mota-lopez
+  # - equipo-jose-maria-rios-mestre
+  # - equipo-maria-carmen-mota-lopez
   - equipo-thierry-martinez-tortosa
   - equipo-manuel-cascon-perez
 - file: resenas
