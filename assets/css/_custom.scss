@@ -1,7 +1,7 @@
 #body-home #header,
 #body-inicio #header {
   @mixin show-from($delay) {
-    animation: show-from .5s (.5 + .25s * $delay) both;
+    animation: show-from .5s (.125 + .125s * $delay) both;
   }
   .logo-3 {               @include show-from(0); --show-from: translate(1em, -3rem); }
   .logo-1 {               @include show-from(1); --show-from: rotate(-30deg); transform-box: fill-box; transform-origin: center; }

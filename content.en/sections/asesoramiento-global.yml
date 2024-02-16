@@ -6,16 +6,16 @@ rows:
     num: 2
   items:
   - order: 2
-    bg: equipo.jpg
+    image: equipo.jpg
   - order: 1
     description: |
-      will find all the necessary experience and expertise under one roof.
+      We are a team specialized in labor, tax, accounting and legal advice. We help you in your company or in your personal case.
 
-      needs.
+      Our union and experience since 1991 makes us solve with the efficiency you need to save you time and high costs.
 
-      Naturally, we offer advice in several languages. Your affairs are in good hands.
+      We can assist you in different languages.
 
-      All our lawyers, economists, accountants and tax advisors are members of the relevant professional associations and organizations in Murcia.
+      We are lawyers, economists, and labor advisors in Murcia.
     more:
       align: left
       align_xl: right

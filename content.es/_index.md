@@ -9,7 +9,7 @@ noindex: false
 translationKey: home
 sections:
 - file: header
-- file: areas-trabajo
+- file: areas
   modals:
   - area-laboral
   - area-administrativo
@@ -28,4 +28,5 @@ sections:
   - equipo-manuel-cascon-perez
 - file: resenas
 - file: contacto
+# - file: fachada
 ---

@@ -62,6 +62,10 @@ rows:
     - type: textarea
       name: Mensaje
       required: true
+# - type: columns
+#   items:
+#   - image: fachada.png
+# - type: contact
   map:
     active: true
     link: https://g.page/r/CZJosYDkc8IkEBM

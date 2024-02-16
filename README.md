@@ -6,15 +6,6 @@
 ## STEPS
 
 
-### Local
-
-- Design
-  - If Multilanguaje and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`
-  - Try in Safari and Firefox
-  - Check in [W3 Validator](https://validator.w3.org/)
-  - Check in [PageSpeed Insights](https://pagespeed.web.dev/)
-
-
 ### After client validate web
 
 
@@ -51,11 +42,6 @@
     To: `google-site-verification=[google_site_verification]`
 - Link with Analytics
 - Add sitemap.xml
-
-
-#### [Google My Business](https://business.google.com/)
-
-- `Add company ⏩ ...` ⏩ whait 13 days to receive postal and insert code to verify
 
 
 ##### Delivery
