@@ -3,7 +3,7 @@ icon_type: top
 icon_size: ''
 icon_color: ''
 image: ''
-ratio: circle
+ratio: 1x1
 contain: false
 border: ''
 inset: false
