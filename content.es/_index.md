@@ -28,5 +28,4 @@ sections:
   - equipo-manuel-cascon-perez
 - file: resenas
 - file: contacto
-# - file: fachada
 ---
