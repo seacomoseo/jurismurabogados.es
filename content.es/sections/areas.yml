@@ -1,12 +1,13 @@
 id: areas
 title: Áreas de Trabajo
 subtitle: De asesoramiento
+size: md
 rows:
 - type: columns
   design:
-    num: 4
+    num: 3
     num_xs: true
-    gap: 2
+    gap: 4
     underline: true
     licon: none
     label: Ampliar
@@ -21,7 +22,7 @@ rows:
     link: '#administrativo'
   - icon: scale-balanced
     title: Derecho Privado
-    description: Protección y Reclamo de Derechos Civiles
+    description: Protección y Ejercicio de Derechos Civiles
     link: '#derecho-privado'
   - icon: briefcase
     title: Mercantil
@@ -35,7 +36,7 @@ rows:
     title: Penal
     description: Defensa y Representación en Derecho Penal
     link: '#penal'
-  - icon: family
-    title: Familia
-    description: Asistencia Legal en Asuntos Familiares y de Sucesiones
-    link: '#familia'
+  # - icon: family
+  #   title: Familia
+  #   description: Asistencia Legal en Asuntos Familiares y de Sucesiones
+  #   link: '#familia'

@@ -1,12 +1,13 @@
 id: areas
 title: Work areas
 subtitle: Of consulting
+size: md
 rows:
 - type: columns
   design:
-    num: 4
+    num: 3
     num_xs: true
-    gap: 2
+    gap: 4
     underline: true
     licon: none
     label: Ampliar
@@ -21,7 +22,7 @@ rows:
     link: '#administrative'
   - icon: scale-balanced
     title: Private Law
-    description: Protection and Claim of Civil Rights
+    description: Protection and Exercise of Civil Rights
     link: '#private-law'
   - icon: briefcase
     title: Commercial Law
@@ -35,7 +36,7 @@ rows:
     title: Criminal Law
     description: Defense and Representation in Criminal Law
     link: '#criminal-law'
-  - icon: family
-    title: Family Law
-    description: Legal Assistance in Family and Inheritance Matters
-    link: '#family-law'
+  # - icon: family
+  #   title: Family Law
+  #   description: Legal Assistance in Family and Inheritance Matters
+  #   link: '#family-law'

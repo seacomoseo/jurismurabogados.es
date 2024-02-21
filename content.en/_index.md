@@ -17,7 +17,7 @@ sections:
   - area-mercantil
   - area-concursal
   - area-penal
-  - area-familia
+  # - area-familia
 - file: asesoramiento-global
 - file: equipo
   modals:
